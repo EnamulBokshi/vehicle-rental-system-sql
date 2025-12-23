@@ -142,3 +142,4 @@ Starter rows are included in [queries.sql](queries.sql) for:
 
 ## File Reference
 - Full schema and queries: [queries.sql](queries.sql)
+- Entity Relationships Diagram (ERD): [ERD](https://lucid.app/lucidchart/732fd5ab-dff4-48ce-931b-8d912e7d9951/edit?beaconFlowId=6E0155FE924C7FF5&invitationId=inv_992bc49f-5354-416a-bdfd-d64b497184f2&page=0_0#)
