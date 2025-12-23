@@ -92,7 +92,7 @@ Starter rows are included in [queries.sql](queries.sql) for:
 - 1. Join bookings to users and vehicles (INNER JOIN): list booking info with customer and vehicle names.
 - 2. Find vehicles never booked (NOT EXISTS).
 - 3. List available cars (WHERE on `status` and `type`).
-- 4. Count bookings per vehicle and filter by count > 1 (GROUP BY / HAVING).
+- 4. Count bookings per vehicle and filter by count > 2 (GROUP BY / HAVING).
 
 ## Setup & Usage
 1. Create a database and connect:
